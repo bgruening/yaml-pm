@@ -1,4 +1,10 @@
 ---
+version: 'v1.320.0'
+date:    2026-07-20 13:38:21+02:00
+changes:
+- 'Security: Avoid backtracking leading to exponential load time. CVE-2026-63676
+   Thanks CPANSec'
+---
 version: 1.31
 date:    Wed Dec 27 07:10:56 AM PST 2023
 changes:
